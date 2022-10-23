@@ -62,6 +62,8 @@ dkms.conf
 .idea/**/shelf
 C/.idea
 C/CMakeLists.txt
+Java/.idea
+Java/Java.iml
 
 # AWS User-specific
 .idea/**/aws.xml
