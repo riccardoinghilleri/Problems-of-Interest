@@ -1,4 +1,8 @@
-// My Linked List Implementation
+/* My Linked List Implementation
+ *
+ * I have kept the methods and variables public because I often needed this access. I know that this would allow
+ * the user to "destroy" the linked list.
+ * */
 
 package DataStructures.LinkedLists;
 

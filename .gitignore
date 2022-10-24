@@ -64,6 +64,9 @@ C/.idea
 C/CMakeLists.txt
 Java/.idea
 Java/Java.iml
+Python/.idea
+__pycache__/
+
 
 # AWS User-specific
 .idea/**/aws.xml
